@@ -1,5 +1,9 @@
 # LPatternIdentification
 
+
+https://pypi.org/project/LPatternIdentification/
+
+
 The formal mathematical definition of the l-Pattern Identification Problem is as follows:
 
 ## Input:
