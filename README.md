@@ -58,5 +58,6 @@ Patterns = get_patterns_from_feature_set(Good, elections_feature_set)
 ## 7. Identify 'L' number of patterns such that all patterns are uniquely Good and not similar to Bad patterns
 
 ```
-Patterns_identified = reduce_pattern_set(Patterns, Bad, 7)
+L = 7
+Patterns_identified = reduce_pattern_set(Patterns, Bad, L)
 ```
