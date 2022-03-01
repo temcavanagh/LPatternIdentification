@@ -15,6 +15,11 @@ A finite alphabet Σ, two disjoint sets Good, Bad ⊆ Σn of strings and an inte
 Is there a set of P patterns such that: |P| ≤ l and P → (Good, Bad)?
 
 
+## Demonstration:
+
+See demo.ipynb
+
+
 ## 1. Install:
 
 ```
